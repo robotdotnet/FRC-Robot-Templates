@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <VSTemplate Version="3.0.0" Type="Project" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" xmlns:sdk="http://schemas.microsoft.com/developer/vstemplate-sdkextension/2010">
   <TemplateData>
     <Name>Command Robot</Name>
@@ -30,8 +30,8 @@
   <WizardData>
     <packages repository="extension"
           repositoryId="FRC_Robot_Templates">
-      <package id="WPILib" version="0.5.2"/>
-      <package id="NetworkTablesDotNet" version="0.2.1"/>
+       <package id="WPILib" version="0.5.2"/>
+       <package id="NetworkTablesDotNet" version="0.2.1"/>
     </packages>
   </WizardData>
 </VSTemplate>
