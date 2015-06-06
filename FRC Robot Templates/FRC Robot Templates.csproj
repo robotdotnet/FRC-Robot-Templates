@@ -64,10 +64,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="packages\NetworkTablesDotNet.0.2.1.nupkg">
+    <Content Include="packages\NetworkTablesDotNet.nupkg">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="packages\WPILib.0.5.2.nupkg">
+    <Content Include="packages\WPILib.nupkg">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <None Include="source.extension.vsixmanifest">
